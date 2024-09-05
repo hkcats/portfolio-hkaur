@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Harmanpreet Kaur"
+  text: "a 6.104 student's portfolio"
+  tagline: "man i hope this works"
   actions:
     - theme: brand
       text: Template Repository
