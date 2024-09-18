@@ -93,10 +93,13 @@ Another example is how is keeps up with TikTok trends/audios, since they are ref
 ## Design Oppurtunities
 
 1. An Anonoumous App
+
     In this app, all users are anonomous, allowing for freedom from social nicities. All posts don't have a username associated with them, and neither do the comments under them. Studies have shown that being anonomous helps people speak up about sensitive topics a lot more, and this would allow users to connect with other people while not under the gaze of friends/family. From my first interview, this seems to be a way to share life updates while not having real-world impacts, in a way.
 
 2. Likes Only
+
     In an attempt to prevent unwanted comments on posts, this app limits users to "like" other people's posts. (This could be expanded to only emoji reactions as well, rather than "likes" specifically.) This would allow users to feel connected with each other, being able to see life updates and other content, without posters having to faciliate comments.
 
 3. TalkChat
+
     Rather than just sending black screens to people on the daily, this app encourages you to actually talk to your friends. You can maintain a streak for how many days you've talked to a friend in a row, and the app gives you fun questions or prompts for you both to respond to, creating an even tighter bond in your friendship.
