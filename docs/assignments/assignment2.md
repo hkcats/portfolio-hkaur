@@ -30,7 +30,7 @@ layout: doc
 
 <figure>
   <img
-  src="./a2_images/guessMe.jpg"
+  src="./a2_images/guessMe.png"
   alt="GuessMe.io">
   <figcaption>On GuessMe.io, people vote for a question, and then guess which vote holds the majority. Perhaps guessing your friends' answers to questions could be part of my app, to gamify it a lil</figcaption>
 </figure>
@@ -78,6 +78,6 @@ layout: doc
 
 ### Storyboarding
 
-  <img src="./a2_images/storyboard1.jpg">
+  <img src="./a2_images/storyboard1.png">
 
-  <img src="./a2_images/storyboard2.jpg">
+  <img src="./a2_images/storyboard2.png">
